@@ -11,3 +11,7 @@
 - week01 Word embeddings
   - Lecture: Word embeddings
   - Seminar: Word2Vec and Embeddings representation analysis
+
+- week02 Sequence handling, text classification
+  - Lecture: Sequence handling, text classification
+  - Seminar: Sequence handling for salary prediction
