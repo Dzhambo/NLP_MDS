@@ -15,3 +15,7 @@
 - week02 Sequence handling, text classification
   - Lecture: Sequence handling, text classification
   - Seminar: Sequence handling for salary prediction
+
+- week03 Language modeling, Seq2seq
+  - Lecture: Language modeling, Seq2seq
+  - Seminar: Machine translation
