@@ -19,3 +19,7 @@
 - week03 Language modeling, Seq2seq
   - Lecture: Language modeling, Seq2seq
   - Seminar: Machine translation
+
+- week04 Transformer
+  - Lecture: Transformer
+  - Seminar: Implementation GPT2
