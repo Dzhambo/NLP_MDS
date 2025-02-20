@@ -23,3 +23,7 @@
 - week04 Transformer
   - Lecture: Transformer
   - Seminar: Implementation GPT2
+
+- week05 Transformer tricks & PEFT
+  - Lecture: Transformer tricks & PEFT
+  - Seminar: PEFT
