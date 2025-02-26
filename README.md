@@ -27,3 +27,7 @@
 - week05 Transformer tricks & PEFT
   - Lecture: Transformer tricks & PEFT
   - Seminar: PEFT
+
+- week06 LLMs & RLHF
+  - Lecture: LLMs, Prompting, RLHF
+  - Seminar: RLHF
